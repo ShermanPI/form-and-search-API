@@ -1,0 +1,1 @@
+This is a search bar to find movies and the main porpuse of this project is to learn about form manipulation in react, useMemo, useCallback and useRef
